@@ -1,16 +1,17 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Ted Bourgeois
+subtitle: 40 Years of Emergency Services Experience
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Ted Bourgeois brings a wealth of experience and expertise to the emergency management and training ecosystem. With a background spanning over four decades in the emergency services field, Ted's journey began as a Company Medic in the U.S. Army in 1982. Since then, he has continuously evolved his skills and knowledge, becoming proficient in various areas crucial to emergency response.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Ted's dedication to education is evident in his extensive training certifications, which include tactical police and fire dispatching, critical incident stress counseling, suicide prevention, domestic violence intervention, hostage negotiation, active shooter response, counter-terrorism tactics, and advanced fire training. His military experience equipped him with essential skills in creating Emergency Action Plans and fundamental emergency procedures.
 
-What else do you need?
+Throughout his career, Ted has transitioned from being an instructor in basic CPR and first aid to becoming an APCO certified instructor in call-taking and a Communications Training Officer. His commitment to staying updated with industry standards ensures that his educational offerings remain relevant and effective.
 
-### My story
+Now retired from active service, Ted continues to contribute to the emergency response community by promoting industry awareness and providing essential training. During his tenure as Director of Education at American Emergency Preparedness (AEP), his role involved developing educational material and coordinating the delivery of courses tailored to meet the evolving needs of clients.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+For inquiries related to course content, educational development, or any other educational matters, Ted can be reached directly at [781-330-1176](tel:+17813301176) or via email at <tedbourgeois76.ted@gmail.com>. His dedication to promoting excellence in emergency response education makes him a valuable asset to the national emergency services community.
+
+[Call](tel:+17813301176) or [email](mailto:tedbourgeois76.ted@gmail.com) me to schedule high-quality emergency management training at your agency today.

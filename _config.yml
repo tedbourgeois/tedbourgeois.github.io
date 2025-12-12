@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Ted Bourgeois
+title: Ted Bourgeois - Training & Consulting
 
 # Your name to show in the footer
 author: Ted Bourgeois LLC
@@ -21,9 +21,8 @@ author: Ted Bourgeois LLC
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - AEP: "https://ameri-prep.com.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Learn More:
+    - AEP: "https://ameri-prep.com"
 
 ################
 # --- Logo --- #
@@ -102,7 +101,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+#url-pretty: "MyWebsite.com"
 
 # Add the website title to the title of every page
 title-on-all-pages: true

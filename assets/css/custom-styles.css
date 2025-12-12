@@ -1,6 +1,9 @@
-/*  fixing header padding issue on mobile*/
+/*  fixing header padding issue on mobile */
 @media (max-width: 767px) {
   .header {
     padding-bottom: 20px;
   }
 }
+
+/* ted headshot sizing on about me page */
+img[alt=headshot] { width: 20px; }

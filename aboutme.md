@@ -14,6 +14,6 @@ Now retired from active service, Ted continues to contribute to the emergency re
 
 For inquiries related to course content, educational development, or any other educational matters, Ted can be reached directly at [781-330-1176](tel:+17813301176) or via email at <tedbourgeois76.ted@gmail.com>. His dedication to promoting excellence in emergency response education makes him a valuable asset to the national emergency services community.
 
-[Call](tel:+17813301176) or [email](mailto:tedbourgeois76.ted@gmail.com) to schedule high-quality emergency management training at your agency today.
+[Call 781-330-1176](tel:+17813301176) or [email tedbourgeois76@gmail.com](mailto:tedbourgeois76.ted@gmail.com) to schedule high-quality emergency management training at your agency today.
 
 ![group huddle picture](/assets/img/310677205_679746376841800_5700362998423973542_n.jpg)

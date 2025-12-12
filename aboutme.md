@@ -8,7 +8,7 @@ Ted Bourgeois brings a wealth of experience and expertise to the emergency manag
 
 Ted's dedication to education is evident in his extensive training certifications, which include tactical police and fire dispatching, critical incident stress counseling, suicide prevention, domestic violence intervention, hostage negotiation, active shooter response, counter-terrorism tactics, and advanced fire training. His military experience equipped him with essential skills in creating Emergency Action Plans and fundamental emergency procedures.
 
-<img src="/assets/img/ted_headshot_full.jpg" alt="headshot">Throughout his career, Ted has transitioned from being an instructor in basic CPR and first aid to becoming an APCO certified instructor in call-taking and a Communications Training Officer. His commitment to staying updated with industry standards ensures that his educational offerings remain relevant and effective.
+<img src="/assets/img/ted_headshot_full.jpg" alt="headshot" width="20">Throughout his career, Ted has transitioned from being an instructor in basic CPR and first aid to becoming an APCO certified instructor in call-taking and a Communications Training Officer. His commitment to staying updated with industry standards ensures that his educational offerings remain relevant and effective.
 
 Now retired from active service, Ted continues to contribute to the emergency response community by **promoting industry awareness and providing essential training**. During his tenure as Director of Education at American Emergency Preparedness (AEP), his role involved developing educational material and coordinating the delivery of courses tailored to meet the evolving needs of clients.
 

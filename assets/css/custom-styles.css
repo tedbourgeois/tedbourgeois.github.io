@@ -1,0 +1,6 @@
+/*  fixing header padding issue on mobile*/
+@media (max-width: 767px) {
+  .header {
+    padding-bottom: 20px;
+  }
+}

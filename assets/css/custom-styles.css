@@ -6,4 +6,4 @@
 }
 
 /* ted headshot sizing on about me page */
-/*img[alt=headshot] { width: 20px; } */
+img[alt=headshot] { float:right; width: 100px; }
